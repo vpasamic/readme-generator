@@ -1,5 +1,5 @@
 
-  # asd 
+  # ReadmeGenerator 
 
   ## Table of Contents
   - [Description](#Description)
@@ -11,25 +11,26 @@
   - [Contact](#Contact)
 
   ## Description
-  asdasdasd 
+  It generates a readme based on the answers to some prompts 
 
   ## Installation
-  asdasdasd
+  Install whole zip folder and inquirer.
 
   ## Usage
-  asdasdas
+  It can be used by anyone to create ReadMes
 
   ## License
-  undefined
+  [![License](https://img.shields.io/badge/License-undefined-blue.svg)(https://opensource.org/licenses/undefined]
 
   ## Contributers
-  asdasd
+  Ver Pasamic
 
   ## Tests
-  asdasd
+  No tests are included
   
   ## Contact
   ### Github
-  asdasd
+  [vpasamic](https://github.com/vpasamic)
+ 
   ### Email
-  asdasdasdasd
+  Email me at vpasamic22@gmail.com

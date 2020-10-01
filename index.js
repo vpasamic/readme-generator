@@ -27,9 +27,15 @@ const questions = [
         name:"usage",
     },
     {
-        type:"input",
+        type:"list",
         message:"What is the license for this project?",
         name:"licence",
+        choices: [
+            "Apache-2.0",
+            "MIT",
+            "ISC",
+            "NTP"
+        ]
     },
     {
         type:"input",
@@ -53,60 +59,11 @@ const questions = [
     },
 
 ];
-
-// function to write README file
-// function writeToFile(fileName, data) {
-//     fs.writeFile(fileName, data, err) => {
-//         if (err) {
-//             return console.log(err);
-//         }
-//         console.log("ReadMe has been generated")
-//     }
-// 
-// function to prompt user
+//function for inquirer prompt
 function promptuser(){
     return inquirer.prompt(questions)
 }
-// function to create readme template:
-/* function generatereadme(answers){
-    return  `
-    #${answers.Title} 
-
-    ##Table of Contents
-    -[Description](#Description)
-    -[Installation](#Installation Instructions)
-    -[Usage](#Usage)
-    -[License](#License)
-    -[Contributers](#Contributers)
-    -[Tests](#Tests)
-    -[Contact ME](#Contact Me)
-
-    ##Description
-    ${answers.description} 
-
-    ##Installation Instructions
-    ${answers.instruction}
-
-    ##Usage
-    ${answers.usage}
-
-    ##License
-    ${answers.license}
-
-    ##Contributers
-    ${answers.contributers}
-
-    ##Tests
-    ${answers.tests}
-    
-    #Contact Me
-    ##Github
-    ${answers.username}
-    ##Email
-    ${answers.email}
-  `
-} */
-// // function to initialize program
+// function to initialize program
 async function init() {
     try{
         const answers = await promptuser();
@@ -117,6 +74,7 @@ async function init() {
         console.log(err)
     }
 }
+
+
+// function call to initialize program
 init();
-// // function call to initialize program
-// init();

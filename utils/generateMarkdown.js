@@ -22,7 +22,7 @@ function generateMarkdown(answers) {
   ${answers.usage}
 
   ## License
-  ${answers.license}
+  [![License](https://img.shields.io/badge/License-${answers.license}-blue.svg)(https://opensource.org/licenses/${answers.license}]
 
   ## Contributers
   ${answers.contributers}
@@ -32,9 +32,10 @@ function generateMarkdown(answers) {
   
   ## Contact
   ### Github
-  ${answers.username}
+  [${answers.username}](https://github.com/${answers.username})
+ 
   ### Email
-  ${answers.email}
+  Email me at ${answers.email}
 `
 }
 
