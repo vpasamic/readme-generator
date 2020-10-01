@@ -1,7 +1,7 @@
 
-  #ReadMe-Generator 
+  # ReadMe-Generator 
 
-  ##Table of Contents
+  ## Table of Contents
   -[Description](#Description)
   -[Installation](#Installation Instructions)
   -[Usage](#Usage)
@@ -10,26 +10,26 @@
   -[Tests](#Tests)
   -[Contact ME](#Contact Me)
 
-  ##Description
-  It generates a readme based on answers to some prompts. 
+  ## Description
+  It generates a readme based on the answers to some prompts 
 
-  ##Installation Instructions
-  It requires inquirer installation
+  ## Installation Instructions
+  It requires Inquirer
 
-  ##Usage
-  It can be used by anyone to create a readme for their projects
+  ## Usage
+  Anything
 
-  ##License
+  ## License
   undefined
 
-  ##Contributers
+  ## Contributers
   Ver Pasamic
 
-  ##Tests
-  No tests included
+  ## Tests
+  none
   
-  #Contact Me
-  ##Github
+  # Contact Me
+  ## Github
   vpasamic
-  ##Email
+  ## Email
   vpasamic22@gmail.com
