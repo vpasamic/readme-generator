@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util")
 const writeFileAsync = util.promisify(fs.writeFile)
-//const generatereadme = require("./utils/generateMarkdown")
+const generatereadme = require("./utils/generateMarkdown")
 
 // array of questions for user
 const questions = [
@@ -68,7 +68,7 @@ function promptuser(){
     return inquirer.prompt(questions)
 }
 // function to create readme template:
-function generatereadme(answers){
+/* function generatereadme(answers){
     return  `
     #${answers.Title} 
 
@@ -105,7 +105,7 @@ function generatereadme(answers){
     ##Email
     ${answers.email}
   `
-}
+} */
 // // function to initialize program
 async function init() {
     try{
