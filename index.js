@@ -1,6 +1,7 @@
-const inquirer = requirer("inquirer");
+const inquirer = require("inquirer");
 const fs = require("fs");
-
+const util = require("util")
+const writeFileAsync = util.promisify(fs.writeFile)
 
 
 // array of questions for user
@@ -26,7 +27,7 @@ const questions = [
         name:"usage",
     },
     {
-        type:"list",
+        type:"input",
         message:"What is the license for this project?",
         name:"licence",
     },
@@ -52,21 +53,26 @@ const questions = [
     },
 
 ];
+//
+inquirer.prompt(questions)
+.then(function(answers){
+    console.log(answers.email)
 
+})
 // function to write README file
-function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, err) => {
-        if (err) {
-            return console.log(err);
-        }
-        console.log("ReadMe has been generated")
-    }
-}
+// function writeToFile(fileName, data) {
+//     fs.writeFile(fileName, data, err) => {
+//         if (err) {
+//             return console.log(err);
+//         }
+//         console.log("ReadMe has been generated")
+//     }
+// }
 
-// function to initialize program
-function init() {
+// // function to initialize program
+// function init() {
 
-}
+// }
 
-// function call to initialize program
-init();
+// // function call to initialize program
+// init();
