@@ -71,6 +71,7 @@ function promptuser(){
 function generatereadme(answers){
     return  `
     #${answers.Title} 
+
     ##Table of Contents
     -[Description](#Description)
     -[Installation](#Installation Instructions)
@@ -79,18 +80,25 @@ function generatereadme(answers){
     -[Contributers](#Contributers)
     -[Tests](#Tests)
     -[Contact ME](#Contact Me)
+
     ##Description
     ${answers.description} 
+
     ##Installation Instructions
     ${answers.instruction}
+
     ##Usage
     ${answers.usage}
+
     ##License
     ${answers.license}
+
     ##Contributers
     ${answers.contributers}
+
     ##Tests
     ${answers.tests}
+    
     #Contact Me
     ##Github
     ${answers.username}
