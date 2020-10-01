@@ -20,7 +20,7 @@
   It can be used for any project to create a readme.
 
   ## License
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributers
   Ver Pasamic
