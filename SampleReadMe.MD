@@ -1,5 +1,5 @@
 
-  # readme-generator 
+  # Dracarys 
 
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
@@ -13,26 +13,26 @@
   - [Contact](#Contact)
 
   ## Description
-  It creates a readme based on the answers to the prompts provided. 
+  It burns everything to the ground 
 
   ## Installation
-  Install zip folder from github and install inquirer.
+  Hatch a Dragon egg
 
   ## Usage
-  It can be used to generate readmes for any project.
+  Burn king's landing for no reason.
 
   ## License
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributers
-  Ver Pasamic
+  Daenerys Stormborn
 
   ## Tests
-  No tests included in this project.
+  Burn slavers
   
   ## Contact
   ### Github
-  [vpasamic](https://github.com/vpasamic)
+  [rightfulheir](https://github.com/rightfulheir)
  
   ### Email
-  Email me at vpasamic22@gmail.com
+  Email me at stormborn@drogon.com
