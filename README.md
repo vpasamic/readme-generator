@@ -5,6 +5,8 @@
   
   ## Example Video
   [![Video Image](https://img.youtube.com/vi/k4sKaUs6SBc/0.jpg)](https://www.youtube.com/watch?v=k4sKaUs6SBc)
+  [Video Link](https://www.youtube.com/watch?v=k4sKaUs6SBc)
+  
   ## Table of Contents
   - [Description](#Description)
   - [Installation](#Installation)
