@@ -1,5 +1,5 @@
 
-  # ReadmeGenerator 
+  # readme-generator 
 
   ## Table of Contents
   - [Description](#Description)
@@ -11,16 +11,16 @@
   - [Contact](#Contact)
 
   ## Description
-  It generates a readme based on the answers to some prompts 
+  It generates a readme for the user based on prompts 
 
   ## Installation
-  Install whole zip folder and inquirer.
+  Install the entire zip from github and install inquirer
 
   ## Usage
-  It can be used by anyone to create ReadMes
+  It can be used to create readmes by anyone
 
   ## License
-  [![License](https://img.shields.io/badge/License-undefined-blue.svg)(https://opensource.org/licenses/undefined]
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT]
 
   ## Contributers
   Ver Pasamic
