@@ -3,6 +3,8 @@ function generateMarkdown(answers) {
   return  `
   # ${answers.Title} 
 
+  [![License](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license})
+  
   ## Table of Contents
   - [Description](#Description)
   - [Installation](#Installation)
