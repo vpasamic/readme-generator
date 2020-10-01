@@ -4,7 +4,7 @@
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
   ## Example Video
-  [Video Image](https://img.youtube.com/vi/https://www.youtube.com/watch?v=k4sKaUs6SBc/0.jpg)
+  [![Video Image](https://img.youtube.com/vi/https://www.youtube.com/watch?v=k4sKaUs6SBc/0.jpg)](https://www.youtube.com/watch?v=k4sKaUs6SBc)
   ## Table of Contents
   - [Description](#Description)
   - [Installation](#Installation)
