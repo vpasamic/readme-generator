@@ -5,17 +5,17 @@ function generateMarkdown(answers) {
 
   ## Table of Contents
   - [Description](#Description)
-  - [Installation](#Installation Instructions)
+  - [Installation](#Installation)
   - [Usage](#Usage)
   - [License](#License)
   - [Contributers](#Contributers)
   - [Tests](#Tests)
-  - [Contact ME](#Contact Me)
+  - [Contact](#Contact)
 
   ## Description
   ${answers.description} 
 
-  ## Installation Instructions
+  ## Installation
   ${answers.instruction}
 
   ## Usage

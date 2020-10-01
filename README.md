@@ -3,33 +3,33 @@
 
   ## Table of Contents
   - [Description](#Description)
-  - [Installation](#Installation Instructions)
+  - [Installation](#Installation)
   - [Usage](#Usage)
   - [License](#License)
   - [Contributers](#Contributers)
   - [Tests](#Tests)
-  - [Contact ME](#Contact Me)
+  - [Contact](#Contact)
 
   ## Description
   asdasdas 
 
-  ## Installation Instructions
-  dasdasdasd
+  ## Installation
+  asdasda
 
   ## Usage
-  asdasdasd
+  sdasdasd
 
   ## License
   undefined
 
   ## Contributers
-  asdasdasd
+  asdasd
 
   ## Tests
-  asdasdad
+  asdasd
   
   # Contact Me
   ## Github
   asdasd
   ## Email
-  asdasdasdasd
+  asdasd
