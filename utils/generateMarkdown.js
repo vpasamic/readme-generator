@@ -30,10 +30,10 @@ function generateMarkdown(answers) {
   ## Tests
   ${answers.tests}
   
-  # Contact Me
-  ## Github
+  ## Contact Me
+  ### Github
   ${answers.username}
-  ## Email
+  ### Email
   ${answers.email}
 `
 }
