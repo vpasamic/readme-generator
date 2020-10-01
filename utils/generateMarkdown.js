@@ -22,7 +22,7 @@ function generateMarkdown(answers) {
   ${answers.usage}
 
   ## License
-  [![License](https://img.shields.io/badge/License-${answers.license}-blue.svg)(https://opensource.org/licenses/${answers.license}]
+  [![License](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license}
 
   ## Contributers
   ${answers.contributers}

@@ -11,16 +11,16 @@
   - [Contact](#Contact)
 
   ## Description
-  It generates a readme for the user based on prompts 
+  It generates a readme from the prompts 
 
   ## Installation
-  Install the entire zip from github and install inquirer
+  Install the zip folder and inquirer
 
   ## Usage
-  It can be used to create readmes by anyone
+  It can be used for any project to create a readme.
 
   ## License
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT]
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT
 
   ## Contributers
   Ver Pasamic
