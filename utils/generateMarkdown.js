@@ -4,13 +4,13 @@ function generateMarkdown(answers) {
   # ${answers.Title} 
 
   ## Table of Contents
-  -[Description](#Description)
-  -[Installation](#Installation Instructions)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contributers](#Contributers)
-  -[Tests](#Tests)
-  -[Contact ME](#Contact Me)
+  - [Description](#Description)
+  - [Installation](#Installation Instructions)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributers](#Contributers)
+  - [Tests](#Tests)
+  - [Contact ME](#Contact Me)
 
   ## Description
   ${answers.description} 
